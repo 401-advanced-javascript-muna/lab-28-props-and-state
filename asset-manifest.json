@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/401-advanced-javascript-muna/lab-28-props-and-state/static/css/main.52f66228.chunk.css",
-    "main.js": "/401-advanced-javascript-muna/lab-28-props-and-state/static/js/main.aacde463.chunk.js",
-    "main.js.map": "/401-advanced-javascript-muna/lab-28-props-and-state/static/js/main.aacde463.chunk.js.map",
-    "runtime-main.js": "/401-advanced-javascript-muna/lab-28-props-and-state/static/js/runtime-main.a6f8bdbb.js",
-    "runtime-main.js.map": "/401-advanced-javascript-muna/lab-28-props-and-state/static/js/runtime-main.a6f8bdbb.js.map",
-    "static/js/2.534ed864.chunk.js": "/401-advanced-javascript-muna/lab-28-props-and-state/static/js/2.534ed864.chunk.js",
-    "static/js/2.534ed864.chunk.js.map": "/401-advanced-javascript-muna/lab-28-props-and-state/static/js/2.534ed864.chunk.js.map",
-    "index.html": "/401-advanced-javascript-muna/lab-28-props-and-state/index.html",
-    "precache-manifest.b4494620eb5d1e2fefabb22756a78509.js": "/401-advanced-javascript-muna/lab-28-props-and-state/precache-manifest.b4494620eb5d1e2fefabb22756a78509.js",
-    "service-worker.js": "/401-advanced-javascript-muna/lab-28-props-and-state/service-worker.js",
-    "static/css/main.52f66228.chunk.css.map": "/401-advanced-javascript-muna/lab-28-props-and-state/static/css/main.52f66228.chunk.css.map",
-    "static/js/2.534ed864.chunk.js.LICENSE.txt": "/401-advanced-javascript-muna/lab-28-props-and-state/static/js/2.534ed864.chunk.js.LICENSE.txt"
+    "main.css": "/lab-28-props-and-state/static/css/main.52f66228.chunk.css",
+    "main.js": "/lab-28-props-and-state/static/js/main.aacde463.chunk.js",
+    "main.js.map": "/lab-28-props-and-state/static/js/main.aacde463.chunk.js.map",
+    "runtime-main.js": "/lab-28-props-and-state/static/js/runtime-main.06bb42c1.js",
+    "runtime-main.js.map": "/lab-28-props-and-state/static/js/runtime-main.06bb42c1.js.map",
+    "static/js/2.534ed864.chunk.js": "/lab-28-props-and-state/static/js/2.534ed864.chunk.js",
+    "static/js/2.534ed864.chunk.js.map": "/lab-28-props-and-state/static/js/2.534ed864.chunk.js.map",
+    "index.html": "/lab-28-props-and-state/index.html",
+    "precache-manifest.88da9d724bb1ba4fb75105a006bfa3d6.js": "/lab-28-props-and-state/precache-manifest.88da9d724bb1ba4fb75105a006bfa3d6.js",
+    "service-worker.js": "/lab-28-props-and-state/service-worker.js",
+    "static/css/main.52f66228.chunk.css.map": "/lab-28-props-and-state/static/css/main.52f66228.chunk.css.map",
+    "static/js/2.534ed864.chunk.js.LICENSE.txt": "/lab-28-props-and-state/static/js/2.534ed864.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6f8bdbb.js",
+    "static/js/runtime-main.06bb42c1.js",
     "static/js/2.534ed864.chunk.js",
     "static/css/main.52f66228.chunk.css",
     "static/js/main.aacde463.chunk.js"
