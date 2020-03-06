@@ -1,6 +1,7 @@
 import React from 'react';
-import Form from './components/form.js';
-import Results from './components/results.js';
+import Form from '../form/form.js';
+import Results from '../results/results.js';
+import './app.scss';
 class App extends React.Component {
   constructor(props) {
     super(props);

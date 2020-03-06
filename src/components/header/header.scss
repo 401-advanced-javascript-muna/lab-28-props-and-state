@@ -1,0 +1,10 @@
+$header-color: gray;
+$header-background: #065980;
+header {
+  h1 {
+    background: $header-background;
+    color: $header-color;
+    height: 100px;
+    margin: auto ;
+  }
+}

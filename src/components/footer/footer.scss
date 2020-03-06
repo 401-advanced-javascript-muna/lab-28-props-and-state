@@ -1,0 +1,9 @@
+$header-color: gray;
+$header-background: #043780;
+footer{
+    background: $header-background;
+    color: $header-color;
+    height: 50px;
+    margin-top: 400px;
+    text-align: center;
+}

@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import React from 'react';
-
+import './form.scss';
 function Form(props) {
   const handleSubmit = async e => {
     console.log('ddddddddd', props, props.apiUrl);
