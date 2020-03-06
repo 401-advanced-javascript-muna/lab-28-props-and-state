@@ -7,7 +7,7 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/401-advanced-javascript-muna/lab-28-props-and-state/pull/1)
+- [submission PR](https://github.com/401-advanced-javascript-muna/lab-28-props-and-state/pull/2)
 
 
 
