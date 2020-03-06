@@ -27,7 +27,7 @@ function Form(props) {
     <form onSubmit={handleSubmit}>
       <input type="text" onChange={handleChange} />
       <section>
-        <button type="submit">Get</button>
+        <button className='get' type="submit">Get</button>
       </section>
     </form>
   );

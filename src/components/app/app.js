@@ -25,16 +25,16 @@ class App extends React.Component {
   };
   render() {
     return (
-      <>
-        <div>
+      <span>
+        <>
           <Form
             apiUrl={this.state.api}
             handleSubmitApi={this.handleSubmit}
             handleChangeApi={this.handleChangetApi}
           />
           <Results results={this.state.results} />
-        </div>
-      </>
+        </>
+      </span>
     );
   }
 }
