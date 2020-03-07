@@ -1,5 +1,3 @@
-# lab-28-props-and-state
-
 # RESTy App
 
 

@@ -6,7 +6,17 @@ function Results(props) {
 
   return (
     <>
-      <ReactJson src={props.results} theme="monokai" />
+      <div className="overlay">
+        <div className="results">
+          {/* <span className="title">{this.props.title}</span> */}
+          {/* <button className="close" onClick={this.props.close}>X</button> */}
+          <ReactJson src={props.results} theme="monokai" />
+
+          {/* <div className="content">
+          {this.props.children}
+        </div> */}
+        </div>
+      </div>
     </>
   );
 }

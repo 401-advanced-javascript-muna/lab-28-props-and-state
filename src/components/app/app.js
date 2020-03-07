@@ -1,4 +1,5 @@
 import React from 'react';
+import Home from '../home/home.js';
 import Form from '../form/form.js';
 import Results from '../results/results.js';
 import './app.scss';
@@ -32,6 +33,7 @@ class App extends React.Component {
             handleSubmitApi={this.handleSubmit}
             handleChangeApi={this.handleChangetApi}
           />
+          <Home results={this.state.results}/>
           <Results results={this.state.results} />
         </>
       </span>
